@@ -1,0 +1,4 @@
+venv
+delivery/**/__pycache__
+.vscode
+delivery/db.sqlite3
